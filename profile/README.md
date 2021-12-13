@@ -38,4 +38,4 @@
 <h3>Hiện thực:</h3>
 <h4>-Quản lí User của Admin: http://managekazuko.tk/</h4>
 <h4>-Chat-Web của User     : http://chatkazuko.tk/</h4>
-<h4>-Link tải App          : https://drive.google.com/file/d/1YTO4xopy8tYPS1m4IcV6JaKKYaF4VrsX/view?usp=sharing</h4>
+<h4>-Link tải App          : https://drive.google.com/file/d/1f0KJWgphD02LfzFRCnhCa26-aLfkDIY7/view?usp=sharing</h4>
