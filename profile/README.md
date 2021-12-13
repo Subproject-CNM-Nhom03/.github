@@ -1,7 +1,7 @@
 <h1>Bài tập lớn Công Nghệ Mới</h2>
 <h2>Đề tài: Web-App Chat trực tuyến</h4>
 <h4>Mô tả: Cho phép người dùng kết bạn chat trực tuyến, gửi ảnh, video, file trên cả web và app</h4>
-<h4>Link demo:</h4>
+<h4>Link demo: https://www.youtube.com/watch?v=RXBWotSKF2U</h4>
 <h3>Thành viên:</h3>
 <ul>
     <li>Võ Anh Hào - 18060441 -Nhóm trưởng</li>
