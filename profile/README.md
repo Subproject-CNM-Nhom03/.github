@@ -17,6 +17,7 @@
     <li>ReactNative</li>
     <li>AWS: EC2,DynamoDB,S3,RDS(MySQL)</li>
     <li>Firebase</li>
+    <li>Docker</li>
 </ul>
 <h3>Mô tả chức năng:</h3>
     Chức năng của admin<br>
